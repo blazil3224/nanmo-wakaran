@@ -2,5 +2,9 @@
   "name": "nanmo-wakaran",
   "version": "0.1.0",
   "description": "説明の文だけを前提なしで Haiku に読ませ、どう理解したかを本来の意図と比べて、説明を書き直す。",
-  "author": { "name": "nishida" }
+  "author": {
+    "name": "nishida"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/blazil3224/nanmo-wakaran"
 }

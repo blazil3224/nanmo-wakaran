@@ -1,6 +1,9 @@
 {
   "name": "nanmo-wakaran",
-  "owner": { "name": "nishida" },
+  "description": "説明が伝わるかを前提なしの Haiku に読ませて確かめ、書き直すプラグインの配布元。",
+  "owner": {
+    "name": "nishida"
+  },
   "plugins": [
     {
       "name": "nanmo-wakaran",
