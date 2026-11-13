@@ -1,0 +1,11 @@
+{
+  "name": "nanmo-wakaran",
+  "owner": { "name": "nishida" },
+  "plugins": [
+    {
+      "name": "nanmo-wakaran",
+      "source": "./plugins/nanmo-wakaran",
+      "description": "説明の文だけを前提なしで Haiku に読ませ、どう理解したかを本来の意図と比べて、説明を書き直す。"
+    }
+  ]
+}
